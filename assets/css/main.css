@@ -3163,7 +3163,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url(""), url("https://res.cloudinary.com/biomechcloud/image/upload/c_scale,h_720,w_1349/v1633947466/pexels-olia-danilevich-5313173_ia2vc6.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3896,3 +3896,5 @@
 			}
 
 	}
+
+	
